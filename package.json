@@ -15,7 +15,7 @@
     "vercel": "^21.3.3"
   },
   "dependencies": {
-    "@sanity/client": "^2.8.0",
+    "@sanity/client": "^6.15.5",
     "mendoza": "^2.1.1",
     "node-fetch": "^2.6.1",
     "react": "^17.0.2",
